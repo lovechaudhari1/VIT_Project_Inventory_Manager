@@ -1,4 +1,4 @@
-# VIT_Project
+# VIT_Project_Inventory_Manager
 
 # Simple Inventory Management System
 
